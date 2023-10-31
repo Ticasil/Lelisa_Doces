@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Sarala&display=swap');
 
+
 *{
     margin: 0;
     padding: 0;
@@ -8,7 +9,8 @@
 }
 body {
    font-size: 2,25rem; 
-   background-color: rgba(116, 59, 59, 0.493);
+   background-color: #E1C0AC;
+
 }
 .conteudo-titulo{
     padding-left:  0% 60%;
