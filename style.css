@@ -9,11 +9,11 @@
 }
 body {
    font-size: 2,25rem; 
-   background-color: #E1C0AC;
+   background-color: #a0775e;
 
 }
 .conteudo-titulo{
-    padding-left:  0% 60%;
+    padding: center;
     color: cyan;
 }
 .conteudo-subtitulo{
