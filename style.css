@@ -13,14 +13,18 @@ body {
 
 }
 .conteudo-titulo{
-    padding: center;
+    font-size: 28px;
+    font-family: "Anto&family";
     color: cyan;
+    padding: 1em;
 }
 .conteudo-subtitulo{
-    padding: 0% 30%;
+    font-family: "Anto&family";
+    font-size: 28px;
+    padding: 2mm;
     color: blueviolet;
 }
 .logomarca{
-    padding: 0% 60%;
-    height: 100vh;
+    background: 28px;
+    
 }
